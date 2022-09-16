@@ -1,8 +1,8 @@
 # create a file in /tmp with specific requirements
 
-file { 'holberton':
-  path    => '/tmp/holberton',
-  mode    => '0744',
+file { 'school':
+  path    => '/tmp/school',
+  mode    => '04',
   owner   => 'www-data',
   group   => 'www-data',
   content => 'I love Puppet',
