@@ -18,7 +18,7 @@
 
 Include /etc/ssh/ssh_config.d/*.conf
 
-Host 54.89.74.48
+Host 44.200.194.45
 #   ForwardAgent no
 #   ForwardX11 no
 #   ForwardX11Trusted yes
